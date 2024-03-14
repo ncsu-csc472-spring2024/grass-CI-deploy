@@ -7,4 +7,5 @@ paths-ignore:
   - node_modules
   - python/grass/pygrass/tests
   
-queries: security-and-quality
+queries:
+  - uses: security-and-quality
